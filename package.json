@@ -22,7 +22,6 @@
   },
   "postcss": {
     "plugins": {
-      "autoprefixer": {},
       "postcss-cssnext": {}
     }
   },
